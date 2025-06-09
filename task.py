@@ -71,3 +71,5 @@ print(expensive_purchases(sales))
 print(average_price_by_category(sales))
 
 print(most_frequent_category(sales))
+
+print()
